@@ -1,0 +1,7 @@
+spring:
+  application:
+    name: poo
+  datasource:
+    url: 'sqlite://app.db'
+  flyway:
+    enabled: false
